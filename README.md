@@ -1,6 +1,6 @@
-- FreeCodeCamp Web Development Certification
+- My FreeCodeCamp Web Development Certification checklist
 
-This repository contains projects I completed while studying web development on FreeCodeCamp.
+This repository contains projects I completed while studying resposive web development certification on FreeCodeCamp.
 
 Projects:
 1. Basic html
@@ -13,3 +13,5 @@ Projects:
         
 2. Semantic html
       - building and event hub
+3. forms and tables
+       - building a surevey form (Certification project)
